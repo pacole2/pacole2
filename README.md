@@ -1,8 +1,8 @@
 <!DOCYPE html>
-  <html lang="en">
+<html lang="en">
     <head>
       <meta charset="utf-8">
-      <title>Instrumental - Human systems - User experience</title>
+      <title>Human systems UX design</title>
       <meta name="author" content="Philip Cole">
       <meta name="description" content="Human systems engineering and User experience design - a violin-maker's perspective.">
     </head>
